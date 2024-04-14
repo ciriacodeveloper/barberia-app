@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "110697164950",
+    "firebase_url": "https://barberiauno-9417b.firebaseio.com",
+    "project_id": "barberiauno-9417b",
+    "storage_bucket": "barberiauno-9417b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110697164950:android:a1ab85ef709bd1c87fd2b7",
+        "android_client_info": {
+          "package_name": "com.empresasciriaco.barberias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110697164950-94ussocskt2ii5iuejuhrbd7h09q86kp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.empresasciriaco.barberias",
+            "certificate_hash": "05edb14f1d63b45ab77cdc52e067cd509a7ea07a"
+          }
+        },
+        {
+          "client_id": "110697164950-lokdlel3qkdsto6krlu9fa0p6t46kgri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsasRhuaIKvvWQsOI02rKw6tOh5MDE4ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110697164950-lokdlel3qkdsto6krlu9fa0p6t46kgri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

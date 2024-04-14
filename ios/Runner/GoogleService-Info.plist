@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>110697164950-kt4mf037l5bu0tn924pq732u0virptm0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.110697164950-kt4mf037l5bu0tn924pq732u0virptm0</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>110697164950-94ussocskt2ii5iuejuhrbd7h09q86kp.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBMGotXW_-daL_EmOqI4rdHYRfh8-bs-yI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>110697164950</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.empresasciriaco.barberias</string>
+	<key>PROJECT_ID</key>
+	<string>barberiauno-9417b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>barberiauno-9417b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:110697164950:ios:1034eef6a13206c37fd2b7</string>
+	<key>DATABASE_URL</key>
+	<string>https://barberiauno-9417b.firebaseio.com</string>
+</dict>
+</plist>
